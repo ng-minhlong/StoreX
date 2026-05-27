@@ -6,7 +6,7 @@ export default function AdminDashboardPage() {
     return (
         <div className="flex flex-col gap-8">
             <div>
-                <h1 className="text-3xl font-bold tracking-tight">Admin Dashboard</h1>
+                <h1 className="text-3xl font-bold tracking-tight">Admin Dashboard - New</h1>
                 <p className="text-muted-foreground">Platform-wide statistics and management.</p>
             </div>
 
